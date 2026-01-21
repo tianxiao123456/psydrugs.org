@@ -31,3 +31,14 @@ dateCreated: 2024-05-13T13:24:14.619Z
 ## 反制
 
 过量使用可能导致严重的认知损伤。可以使用[反解离](/effects/Antidissociation)药物来反制。
+
+---
+
+## 相关效应
+
+- [反解离](/effects/Antidissociation) — 解离的对立状态
+- [谵妄](/effects/Delirium/) — 抗胆碱能精神异常
+
+## 更多信息
+
+返回 [效应与安全](/drugs/) 获取更多效应信息。

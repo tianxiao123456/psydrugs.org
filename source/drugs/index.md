@@ -56,6 +56,11 @@ comments: false
 - [苏糖酸镁](/drugs/MGT/)
 - [茶碱](/drugs/TPL/)
 
+**效应与安全**  _理解常见药物效应的特征和危害_
+- [解离](/effects/Dissociation/) — 精神与知觉分离
+- [反解离](/effects/Antidissociation/) — 解离的对立状态（危险）
+- [谵妄](/effects/Delirium/) — 抗胆碱能精神异常
+
 **其他专题**
 - [复方专题](/drugs/compound/)
 - [酒精](/drugs/EtOH/)

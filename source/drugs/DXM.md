@@ -27,8 +27,8 @@ dateCreated: 2024-01-30T11:16:42.011Z
 #### 作用
 - **主要的副作用：见[右美沙芬的危害专题](Drugs/DXM/The_harm_of_dextromethorphan)**
 - **急性的副作用：血清素综合征、急性躁狂、脱水、呼吸抑制、脱离、嗜睡、呕吐、晕迫**
-- 主要的主作用：[解离](/effects/Dissociation)、[SRI抗抑郁](/zh/drugs/SRIs)
-- 急性的主作用：音乐欣赏力提高、非常轻微的[阿片类麻醉](/zh/drugs/Opioids)
+- 主要的主作用：[解离](/effects/Dissociation)、[SRI抗抑郁](/drugs/SRIs)
+- 急性的主作用：音乐欣赏力提高、非常轻微的[阿片类麻醉](/drugs/Opioids)
 ## 药代动力学
 右美沙芬具有复杂的代谢、耐受性质
 
@@ -157,7 +157,7 @@ dateCreated: 2024-01-30T11:16:42.011Z
 ## 历史
 ^（由于笔者认识有限，难免叙述出现差错缺漏。欢迎补充）^
 
-那是[《药品网络销售禁止清单（第一版）》](https://www.nmpa.gov.cn/yaopin/ypggtg/20221130200847133.html)之前——站内拷贝文[在这里](/zh/Others/FGWJ-2022-275)，不管是二类还是三类，甚至是一类，有很多很多的人，没有任何阻碍地走进了右美沙芬的药效里……那时的右美沙芬非常便宜，在网上什么药厂的都有，30t一盒只需要6元。
+那是[《药品网络销售禁止清单（第一版）》](https://www.nmpa.gov.cn/yaopin/ypggtg/20221130200847133.html)之前——站内拷贝文[在这里](/Others/FGWJ-2022-275)，不管是二类还是三类，甚至是一类，有很多很多的人，没有任何阻碍地走进了右美沙芬的药效里……那时的右美沙芬非常便宜，在网上什么药厂的都有，30t一盒只需要6元。
 
 首先是[圈内师老师的视频](https://www.bilibili.com/video/BV1RW4y1y7Z5)，其次是看起来像是心理学视频作者的[视频](https://www.bilibili.com/video/BV1sF411w7BZ)，[底层原理](https://www.bilibili.com/video/BV11a411d7w5)的“背刺”，最后[广州禁毒](https://www.bilibili.com/video/BV1Nd4y1R7ym)也开始入场。最终的结局便是在2022.11.30，《禁止清单》出现了
 
