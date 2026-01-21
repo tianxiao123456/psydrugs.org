@@ -16,7 +16,7 @@
 
 **使用方法:**
 ```bash
-python3 auto_drugs.py
+python3 tools/drugs/auto_drugs.py
 ```
 
 **输出示例:**
@@ -39,7 +39,7 @@ python3 auto_drugs.py
 
 **使用方法:**
 ```bash
-python3 generate_drugs_yml.py
+python3 tools/drugs/generate_drugs_yml.py
 ```
 
 **生成的配置结构:**
@@ -70,7 +70,7 @@ tree:
 
 **使用方法:**
 ```bash
-python3 validate_drugs.py
+python3 tools/drugs/validate_drugs.py
 ```
 
 **输出示例:**
@@ -91,20 +91,20 @@ python3 validate_drugs.py
 ### 一键执行所有处理
 
 ```bash
-python3 auto_drugs.py
+python3 tools/drugs/auto_drugs.py
 ```
 
 ### 单独执行特定任务
 
 1. **仅验证文件:**
-   ```bash
-   python3 validate_drugs.py
-   ```
+  ```bash
+  python3 tools/drugs/validate_drugs.py
+  ```
 
 2. **仅更新配置:**
-   ```bash
-   python3 generate_drugs_yml.py
-   ```
+  ```bash
+  python3 tools/drugs/generate_drugs_yml.py
+  ```
 
 ---
 
@@ -113,14 +113,14 @@ python3 auto_drugs.py
 ### 添加新药物文件后
 
 1. 在 `source/drugs/` 目录中创建新的 `.md` 文件
-2. 运行 `python3 auto_drugs.py` 自动处理
+2. 运行 `python3 tools/drugs/auto_drugs.py` 自动处理
 3. 运行 `hexo generate` 重新生成静态网站
 4. 验证效果
 
 ### 修改现有药物信息后
 
 1. 编辑相应的 `.md` 文件
-2. 运行 `python3 auto_drugs.py`（如果修改了文件名或front-matter）
+2. 运行 `python3 tools/drugs/auto_drugs.py`（如果修改了文件名或front-matter）
 3. 运行 `hexo server` 查看本地效果
 
 ---
