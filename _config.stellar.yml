@@ -102,6 +102,7 @@ site_tree:
     rightbar: 
     nav_tabs:
       '处方生成器': /prescription-generator/
+      '贡献者': /contributors/
   # 博客专栏列表页配置
   index_topic:
     base_dir: topic # 只影响自动生成的页面路径
@@ -114,6 +115,7 @@ site_tree:
     rightbar: 
     nav_tabs:
       '处方生成器': /prescription-generator/
+      '贡献者': /contributors/
   # -- 内容类页面 -- #
   # 博客文章内页配置
   post:
@@ -219,7 +221,7 @@ article:
   related_posts:
     enable: false
     max_count: 5
-  license: '本站内容（文章、报告、图片等）采用 [禁止演绎-非商业性使用-保持署名 4.0 国际 (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans) 协议，禁止复制和转载；站点代码遵循 GPL-2.0（见项目根目录 LICENSE）。'
+  license: '本站内容（文章、报告、图片等）采用 [署名-相同方式共享 4.0 国际 (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hans) 协议；站点代码遵循 CC BY-SA 4.0（见项目根目录 LICENSE）。'
 
 search:
   service: local_search # local_search, algolia_search, todo...
@@ -393,7 +395,7 @@ footer:
     <script type="text/javascript">
     function show_runtime() {
         window.setTimeout("show_runtime()", 1000);
-        X = new Date("10/20/2023 00:00:00 ");
+        X = new Date("1/22/2026 00:00:00 ");
         Y = new Date();
         T = (Y.getTime() - X.getTime());
         M = 24 * 60 * 60 * 1000;
@@ -410,7 +412,7 @@ footer:
     </script>
     <span id="runtime_span"> </span>
     </br>
-    本站内容采用 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans" target="_blank">禁止演绎-非商业性使用-保持署名 4.0 国际 (CC BY-NC-ND 4.0)</a> 协议，禁止复制和转载；站点代码遵循 GPL-2.0（见项目根目录 LICENSE）。
+    本站内容采用 <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hans" target="_blank">署名-相同方式共享 4.0 国际 (CC BY-SA 4.0)</a> 协议；站点代码遵循 CC BY-SA 4.0（见项目根目录 LICENSE）。
 
 
 ######## Tag Plugins ########
@@ -673,8 +675,8 @@ plugins:
 
 
 style:
-  prefers_theme: auto # auto / light / dark
-  smooth_scroll: true # true / false 开启时如果目录过长可能无法准确定位
+  prefers_theme: light # auto / light / dark
+  smooth_scroll: false # true / false 开启时如果目录过长可能无法准确定位
   font-size:
     root: 16px # 改这个会影响全局所有文字的字号
     body: 17px # 影响正文区域的字号，如果改成 px 则不受 root 影响

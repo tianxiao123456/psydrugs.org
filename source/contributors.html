@@ -1,0 +1,113 @@
+---
+layout: page
+title: 贡献者
+description: 致谢项目的所有贡献者
+date: 2026-01-22
+updated: 2026-01-22
+comments: false
+---
+
+<div class="contributors-container">
+  <div class="contributors-intro">
+    <p>感谢以下所有为本项目做出贡献的人员。你们的努力使这个项目能够为更多人提供帮助。</p>
+  </div>
+
+  <div class="contributor-section">
+    <h2>🖊️ 编辑组</h2>
+    <div class="contributor-list">
+      <div class="contributor-item">天晓</div>
+      <div class="contributor-item">叶子</div>
+      <div class="contributor-item">krvy</div>
+      <div class="contributor-item">Akinoyo</div>
+      <div class="contributor-item">后藤</div>
+      <div class="contributor-item">彻子</div>
+      <div class="contributor-item">xialingXD</div>
+    </div>
+  </div>
+
+  <div class="contributor-section">
+    <h2>🧪 测试组</h2>
+    <div class="contributor-list">
+      <div class="contributor-item">Rinko</div>
+      <div class="contributor-item">天晓</div>
+      <div class="contributor-item">krvy</div>
+      <div class="contributor-item">Akinoyo</div>
+    </div>
+  </div>
+
+  <div class="contributor-section">
+    <h2>📊 评估审核分析</h2>
+    <div class="contributor-list">
+      <div class="contributor-item">Misaka</div>
+      <div class="contributor-item">彻子</div>
+      <div class="contributor-item">柚璘</div>
+    </div>
+  </div>
+
+  <div class="contributor-section">
+    <h2>⚙️ 技术</h2>
+    <div class="contributor-list">
+      <div class="contributor-item">krvy</div>
+      <div class="contributor-item">xialingXD</div>
+    </div>
+  </div>
+</div>
+
+<style>
+.contributors-container {
+  max-width: 900px;
+  margin: 2rem auto;
+  padding: 2rem;
+}
+
+.contributors-intro {
+  text-align: center;
+  margin-bottom: 3rem;
+  font-size: 1.1rem;
+  color: var(--text-highlight);
+}
+
+.contributor-section {
+  margin-bottom: 3rem;
+}
+
+.contributor-section h2 {
+  margin-bottom: 1.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--block-border);
+  color: var(--text-highlight);
+}
+
+.contributor-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 1rem;
+}
+
+.contributor-item {
+  padding: 1rem;
+  background: var(--card);
+  border-radius: 8px;
+  text-align: center;
+  border: 1px solid var(--block-border);
+  transition: all 0.3s ease;
+  font-weight: 500;
+}
+
+.contributor-item:hover {
+  background: var(--button-hover);
+  border-color: var(--text-highlight);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+@media (max-width: 768px) {
+  .contributor-list {
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  }
+
+  .contributors-container {
+    padding: 1rem;
+  }
+}
+</style>
