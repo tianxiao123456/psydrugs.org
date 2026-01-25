@@ -15,9 +15,10 @@ comments:
 base_dir: /drugs/
 tree:
   '导论':
-    - others/introduction-to-overdose
+    - introduction-to-overdose
     - /
     - index
+    - 索引
   '解离与麻醉':
     - dissociatives/氯胺酮
     - dissociatives/右美沙芬_愈美片
