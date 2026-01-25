@@ -15,103 +15,103 @@ comments:
 base_dir: /drugs/
 tree:
   '导论':
-    - introduction-to-overdose
+    - others/introduction-to-overdose
     - /
     - index
   '解离与麻醉':
-    - 氯胺酮
-    - 右美沙芬_愈美片
-    - 右美沙芬_愈美片/HTCT5THP
-    - 右美沙芬_愈美片/The_harm_of_dextromethorphan
-    - 金刚烷胺
-    - 美金刚
-    - 替来他明
-    - 丙泊酚
+    - dissociatives/氯胺酮
+    - dissociatives/右美沙芬_愈美片
+    - dissociatives/右美沙芬_愈美片/HTCT5THP
+    - dissociatives/右美沙芬_愈美片/The_harm_of_dextromethorphan
+    - dissociatives/金刚烷胺
+    - dissociatives/美金刚
+    - dissociatives/替来他明
+    - dissociatives/丙泊酚
   '阿片与镇痛':
-    - 阿片类药物
-    - 可待因
-    - 二氢可待因
-    - DHCDI/OAR
-    - 吗啡
-    - 杜冷丁
-    - 地芬诺酯
-    - 曲马多
-    - 喷托维林
-    - 奈福泮
+    - opioids/阿片类药物
+    - opioids/可待因
+    - opioids/二氢可待因
+    - opioids/DHCDI/OAR
+    - opioids/吗啡
+    - opioids/杜冷丁
+    - opioids/地芬诺酯
+    - opioids/曲马多
+    - opioids/喷托维林
+    - opioids/奈福泮
   '镇静催眠 / 睡眠':
-    - 苯二氮卓类药物
-    - Z药物
-    - 佐匹克隆
-    - 唑吡坦
-    - 扎来普隆
-    - 水合氯醛
-    - 苯海拉明
-    - 苯海索
-    - 异丙嗪
+    - sedatives/苯二氮卓类药物
+    - sedatives/Z药物
+    - sedatives/佐匹克隆
+    - sedatives/唑吡坦
+    - sedatives/扎来普隆
+    - sedatives/水合氯醛
+    - sedatives/苯海拉明
+    - sedatives/苯海索
+    - sedatives/异丙嗪
   '抗精神病 / 情绪稳定':
-    - 阿立哌唑
-    - 氨磺必利
-    - 喹硫平
-    - 奥氮平
-    - 利培酮
-    - 丙戊酸
-    - 拉莫三嗪
-    - 普瑞巴林
-    - 加巴喷丁
+    - antipsychotics/阿立哌唑
+    - antipsychotics/氨磺必利
+    - antipsychotics/喹硫平
+    - antipsychotics/奥氮平
+    - antipsychotics/利培酮
+    - antipsychotics/丙戊酸
+    - antipsychotics/拉莫三嗪
+    - antipsychotics/普瑞巴林
+    - antipsychotics/加巴喷丁
   '抗抑郁与注意力':
-    - 血清素再摄取抑制剂
-    - 托莫西汀
-    - 安非他酮
-    - 哌醋甲酯
-    - 苯丙胺类药物
-    - 咖啡因
+    - antidepressants/血清素再摄取抑制剂
+    - antidepressants/托莫西汀
+    - antidepressants/安非他酮
+    - antidepressants/哌醋甲酯
+    - antidepressants/苯丙胺类药物
+    - antidepressants/咖啡因
   '止吐 / 抗组胺 / 胃肠':
-    - 止吐药
-    - 地芬尼多
-    - 茶苯海明
-    - 苯海拉明
-    - 槟榔碱
-    - 水合氯醛
-    - 吡拉西坦
-    - 茶氨酸
-    - 茶
+    - antiemetics/止吐药
+    - dissociatives/地芬尼多
+    - antiemetics/茶苯海明
+    - sedatives/苯海拉明
+    - antiemetics/槟榔碱
+    - sedatives/水合氯醛
+    - antiemetics/吡拉西坦
+    - supplements/茶氨酸
+    - supplements/茶
   '补充剂与代谢调节':
-    - 酶抑制剂
-    - 补充剂
-    - 苏糖酸镁
-    - 苏糖酸镁/OAR
-    - 茶碱
+    - supplements/酶抑制剂
+    - supplements/补充剂
+    - supplements/苏糖酸镁
+    - supplements/苏糖酸镁/OAR
+    - supplements/茶碱
   '其他':
-    - compound
-    - 乙醇
-    - 巴氯芬
-    - 异丙嗪
-    - 吡拉西坦
-    - TPM
+    - others/compound
+    - others/乙醇
+    - others/巴氯芬
+    - others/异丙嗪
+    - others/吡拉西坦
+    - others/TPM
   '化学物质':
-    - chemical_aterials/1-(3-甲基苯甲基)哌嗪（3-Me-BZP）
-    - chemical_aterials/1-(噻吩-3-基)丙-2-胺
-    - chemical_aterials/1-胡椒基哌嗪（MDBZP）
-    - chemical_aterials/2-AT（1,2,3,4-四氢萘-2-胺）
-    - chemical_aterials/2-二苯甲基吡咯烷（Desoxy-D2PM）
-    - chemical_aterials/4-AcO-MET
-    - chemical_aterials/4-AcO-MiPT
-    - chemical_aterials/4-HO-DET
-    - chemical_aterials/4-O-去甲基麦司卡林 - 苯乙胺类生物碱科普
-    - chemical_aterials/5-甲氧基亚甲酮
-    - chemical_aterials/D2PM（二苯基脯氨醇）
-    - chemical_aterials/N,N-二丙基色胺
-    - chemical_aterials/N-乙基-1-(4-甲氧基苯基)丙-2-胺(PMEA)
-    - chemical_aterials/N-乙基戊酮（NEP）
-    - chemical_aterials/N-异丙基色胺
-    - chemical_aterials/α,N,N-三甲基色胺
-    - chemical_aterials/乙基麦司卡林（Escaline） - 合成迷幻物质科普
-    - chemical_aterials/二甲卡因
-    - chemical_aterials/加波沙朵（Gaboxadol） - GABA类化合物科普
-    - chemical_aterials/卡立普多（Carisoprodol） - 肌肉松弛剂科普
-    - chemical_aterials/噻奈普汀
-    - chemical_aterials/异丙斯卡林（Isoproscaline） - 苯乙胺类化合物科普
-    - chemical_aterials/普鲁斯卡林（普罗司卡林） - 致幻药物科普
-    - chemical_aterials/硫代丙胺
+    - chemical_materials/1-(3-甲基苯甲基)哌嗪（3-Me-BZP）
+    - chemical_materials/1-(噻吩-3-基)丙-2-胺
+    - chemical_materials/1-胡椒基哌嗪（MDBZP）
+    - chemical_materials/2-AT（1,2,3,4-四氢萘-2-胺）
+    - chemical_materials/2-二苯甲基吡咯烷（Desoxy-D2PM）
+    - chemical_materials/4-AcO-MET
+    - chemical_materials/4-AcO-MiPT
+    - chemical_materials/4-HO-DET
+    - chemical_materials/4-O-去甲基麦司卡林 - 苯乙胺类生物碱科普
+    - chemical_materials/5-甲氧基亚甲酮
+    - chemical_materials/D2PM（二苯基脯氨醇）
+    - chemical_materials/N,N-二丙基色胺
+    - chemical_materials/N-乙基-1-(4-甲氧基苯基)丙-2-胺(PMEA)
+    - chemical_materials/N-乙基戊酮（NEP）
+    - chemical_materials/N-异丙基色胺
+    - chemical_materials/α,N,N-三甲基色胺
+    - chemical_materials/乙基麦司卡林（Escaline） - 合成迷幻物质科普
+    - chemical_materials/二甲卡因
+    - chemical_materials/加波沙朵（Gaboxadol） - GABA类化合物科普
+    - chemical_materials/卡立普多（Carisoprodol） - 肌肉松弛剂科普
+    - chemical_materials/噻奈普汀
+    - chemical_materials/异丙斯卡林（Isoproscaline） - 苯乙胺类化合物科普
+    - chemical_materials/普鲁斯卡林（普罗司卡林） - 致幻药物科普
+    - chemical_materials/硫代丙胺
   '未分组':
-    - 烷胺类药物
+    - antidepressants/烷胺类药物
