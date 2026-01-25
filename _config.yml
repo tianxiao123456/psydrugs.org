@@ -7,13 +7,13 @@ title: 精神活性物质指南
 subtitle: '精神活性物质安全指南'
 description: 精神药物安全使用指南、药物相互作用、过量处理和康复经验分享。提供专业的药物安全知识、紧急处理方案和真实案例报告，帮助用户了解精神活性物质的风险与防范。
 keywords: 精神药物, 药物安全, 药物过量, 紧急处理, 减害措施, 药物相互作用, 阿片类, 苯二氮卓类, 右美沙芬, 抗抑郁药, 康复指南, 用户报告, harm reduction, psychoactive drugs
-author: Krvy, 
+author: /icons/favicon.png 
 language: zh-CN
 timezone: 'Asia/Shanghai'
-
+favicon: /icons/favicon.png
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://psydrugs.icu
+url: https://psydrugs.org
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:

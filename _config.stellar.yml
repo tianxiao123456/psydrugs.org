@@ -6,6 +6,7 @@ stellar:
   main_css: /css/main.css
   main_js: /js/main.js
 
+author: /icons/favicon.png 
 
 ######## head tags ########
 preconnect:
@@ -13,12 +14,15 @@ preconnect:
   # - https://gcore.jsdelivr.net
   # - https://unpkg.com
 
+favicon: /icons/favicon.png
+
 # 一旦设置源站地址，非源站地址将不会被SEO收录，并且访问时弹出提示
 # 如果访问地址不在备用站主机列表，则警告信息为非法克隆
 canonical:
   originalHost: # 主站点域名主机，例如 xaoxuu.com
   officialHosts: # 官方主机列表，每行一个，例如 xaoxuu.vercel.app
     - localhost
+    - psydrugs.org
 
 open_graph:
   enable: true
@@ -31,7 +35,7 @@ structured_data:
 ######## Sidebar ########
 # 左上角显示的 logo 区域，包含图标、大标题、副标题
 logo:
-  avatar: '[{config.avatar}](/about/)' # you can set avatar link in _config.yml or '[https://xxx.png](/about/)'
+  avatar: '[ /icons/favicon.png](/)' # you can set avatar link in _config.yml or '[https://xxx.png](/about/)'
   title: '[{config.title}](/)' # you can set html tag like: '[<img no-lazy height="32px" src="xxx"/>](/)'
   subtitle: '{config.subtitle}' # '文字1 | 文字2' (鼠标放上去会切换到文字2)
 
@@ -46,9 +50,9 @@ menubar:
       url: /drugs/
     - id: combination
       theme: '#3DC550'
-      icon: /icons/combine.png
-      title: 联用
-      url: /combination/
+      icon: /icons/first-aid.png
+      title: 急救
+      url: /emergency_treatment/
     - id: reports
       theme: '#FA6400'
       icon: /icons/report.png

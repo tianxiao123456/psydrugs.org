@@ -8,8 +8,8 @@ tags:
 editor: markdown
 dateCreated: 2024-04-05T07:11:58.738Z
 ---
-> 请读者先看[右美沙芬](/zh/drugs/DXM)、[解离](/effects/Dissociation)、[反解离](/effects/Antidissociation)
-{.is-info}
+> 请读者先看[右美沙芬](/drugs/DXM)、[解离](/effects/Dissociation)、[反解离](/effects/Antidissociation)
+
 
 ## 综述
 
