@@ -30,7 +30,7 @@ def collect_drugs():
         'opioids': {},
         'others': {},
         'sedatives': {},
-        'supplements': {}
+        '补充剂': {}
     }
     
     base_path = Path('/home/krvy/psydrugs.org/source/drugs')
@@ -91,7 +91,7 @@ def assess_harm(name, title, category):
     # 默认为 2 星
     if category == 'others':
         return '★★'
-    elif category in ['supplements', 'antiemetics']:
+    elif category in ['补充剂', 'antiemetics']:
         return '★'
     elif category in ['opioids', 'dissociatives']:
         return '★★★★'
@@ -113,7 +113,7 @@ def main():
         ('抗精神病与情绪调节', ['antipsychotics']),
         ('抗抑郁与兴奋', ['antidepressants']),
         ('止吐与抗组胺', ['antiemetics']),
-        ('补充与代谢调节', ['supplements']),
+        ('补充与代谢调节', ['补充剂']),
         ('化学物质与设计药物', ['chemical_materials']),
         ('其他物质', ['others']),
     ]

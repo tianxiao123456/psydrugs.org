@@ -22,6 +22,10 @@ tree:
     - pdw-reports/RP-2
     - pdw-reports/RP-3
     - pdw-reports/RP-4
+    - pdw-reports/RP-5
+    - pdw-reports/RP-6
+    - pdw-reports/RP-7
+    - pdw-reports/RP-8
   'overdose wiki 报告':
     - odw-reports/index
     - odw-reports/RP-0

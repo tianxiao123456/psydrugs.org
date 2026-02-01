@@ -10,13 +10,13 @@ from pathlib import Path
 
 # 额外的短代码映射
 SHORT_CODE_MAPPING = {
-    'SPM': 'supplements/补充剂',  # GABA 可能是补充剂相关
+    'SPM': '补充剂/补充剂',  # GABA 可能是补充剂相关
     'PR': 'antipsychotics/普瑞巴林',
-    'TPL': 'supplements/茶碱',
-    'TAN': 'supplements/茶氨酸',
-    'EI': 'supplements/酶抑制剂',
+    'TPL': '补充剂/茶碱',
+    'TAN': '补充剂/茶氨酸',
+    'EI': '补充剂/酶抑制剂',
     'THP': 'sedatives/苯海索',
-    'MGT': 'supplements/苏糖酸镁',
+    'MGT': '补充剂/苏糖酸镁',
     'GBP': 'antipsychotics/加巴喷丁',
     'RPD': 'antipsychotics/利培酮',
     'MMT': 'dissociatives/美金刚',

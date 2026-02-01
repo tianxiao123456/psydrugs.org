@@ -16,7 +16,7 @@ wiki: reports
 报告者：阿晨
 处理报告者：超级后后后藤
 身高体重：168cm, 95kg
-有关药物：[普瑞巴林](/drugs/antipsychotics/普瑞巴林)、[金刚烷胺](/drugs/dissociatives/金刚烷胺)
+有关药物：[普瑞巴林](/drugs/镇静剂/加巴喷丁类药物/普瑞巴林)、[金刚烷胺](/drugs/解离剂/金刚烷胺)
 
 ### 整理后的描述
 

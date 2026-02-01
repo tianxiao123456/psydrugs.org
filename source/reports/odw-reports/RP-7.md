@@ -15,7 +15,7 @@ wiki: reports
 
 报告者：超级后后后藤
 身高体重：175cm, 60kg
-有关药物：[右美沙芬](/drugs/dissociatives/右美沙芬_愈美片)、[咖啡因](/drugs/antidepressants/咖啡因)、[金刚烷胺](/drugs/dissociatives/金刚烷胺)、[茶苯海明](/drugs/antiemetics/茶苯海明)、[复方甘草片](/drugs/others/compound)、[氟伏沙明](/drugs/antidepressants/血清素再摄取抑制剂)
+有关药物：[右美沙芬](/drugs/解离剂/右美沙芬_愈美片)、[咖啡因](/drugs/兴奋剂/非苯丙胺类兴奋剂/咖啡因)、[金刚烷胺](/drugs/解离剂/金刚烷胺)、[茶苯海明](/drugs/谵妄剂/茶苯海明)、[复方甘草片](/drugs/止咳药/复方甘草片)、[氟伏沙明](/drugs/抗抑郁药/血清素再摄取抑制剂（SRIs）)
 删改了部分内容，以更方便阅读
 
 - 【方括号以内的内容，是后期写入的】
@@ -52,7 +52,7 @@ RP-7-19：解离内部幻觉的世界
 RP-7-20：12t不足为奇
 RP-7-21：购物商场之行
 RP-7-22：没有记录的记录
-RP-7-23：[报告2-右美沙芬第五高原](/zh/Report/RP-2-DXM)
+RP-7-23：[报告2-右美沙芬第五高原](/reports/odw-reports/RP-2)
 RP-7-24：扯淡测试
 RP-7-25：最后一次右美沙芬
 RP-7-26：最后一次od，失败难以避免

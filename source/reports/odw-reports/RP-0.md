@@ -11,7 +11,6 @@ tags:
 menu_id: reports
 wiki: reports
 ---
-谁又知道这里会有些什么呢？先放个[索引](/index)
 
 **有侵权的话，很抱歉……**
 

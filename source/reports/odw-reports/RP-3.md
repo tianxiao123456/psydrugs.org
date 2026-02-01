@@ -15,7 +15,7 @@ wiki: reports
 
 报告者：超级后后后藤
 身高体重：175cm, 60kg
-有关药物：[苏糖酸镁](/drugs/supplements/苏糖酸镁)、[茶氨酸](/drugs/supplements/茶氨酸)、[咖啡因](/drugs/antidepressants/咖啡因)、褪黑素
+有关药物：[苏糖酸镇](/drugs/补充剂/苏糖酸镈)、[茶氨酸](/drugs/补充剂/茶氨酸)、[咖啡因](/drugs/兴奋剂/非苯丙胺类兴奋剂/咖啡因)、退黑素
 删减了部分不需要的内容
 
 ### 2024.01.24.21:32

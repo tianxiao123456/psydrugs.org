@@ -17,7 +17,7 @@ wiki: reports
 处理报告者：超级后后后藤
 身高体重：？cm, 51kg
 时间：2024.04.06.15
-有关药物：[金刚烷胺](/drugs/dissociatives/金刚烷胺)、[茶氨酸](/drugs/supplements/茶氨酸)、[右美沙芬](/drugs/dissociatives/右美沙芬_愈美片)
+有关药物：[金刚烷胺](/drugs/解离剂/金刚烷胺)、[茶氨酸](/drugs/补充剂/茶氨酸)、[右美沙芬](/drugs/解离剂/右美沙芬_愈美片)
 
 ### 原描述
 

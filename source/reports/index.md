@@ -16,12 +16,7 @@ menu_id: reports
 
 PsyDrugs 原创用户报告，包含详细的药物使用记录和专业分析：
 
-| 报告编号 | 标题 | 报告者 |
-|---------|------|--------|
-| [报告 1](/reports/pdw-reports/RP-1/) | DXM双酶抑制上了五高 | 小yi |
-| [报告 2](/reports/pdw-reports/RP-2/) | 异丙斯卡林静脉注射 | krvy |
-| [报告 3](/reports/pdw-reports/RP-3/) | 右美沙芬/愈美片 | [数据删除] |
-| [报告 4](/reports/pdw-reports/RP-4/) | 金刚烷胺/安非他酮 | krvy |
+📚 [查看完整目录](/reports/pdw-reports/) - 按数字顺序排列的全部报告
 
 ⚠️ **警告**：这些报告描述的行为存在极高风险，仅供学习和警示用途。
 
@@ -31,7 +26,7 @@ PsyDrugs 原创用户报告，包含详细的药物使用记录和专业分析�
 
 来自 Overdose Wiki 的历史报告合集，共 **151 篇**用户真实经历：
 
-📚 [查看完整目录](/reports/odw-reports/) - 按数字顺序排列的全部报告（RP-0 至 RP-151）
+📚 [查看完整目录](/reports/odw-reports/) - 按数字顺序排列的全部报告
 
 **报告涵盖药物类型：**
 - 解离剂类：右美沙芬、金刚烷胺、氯胺酮等

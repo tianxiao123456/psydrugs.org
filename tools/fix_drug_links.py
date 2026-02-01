@@ -95,14 +95,14 @@ DRUG_PATH_MAPPING = {
     '槟榔碱': 'antiemetics/槟榔碱',
     '吡拉西坦': 'antiemetics/吡拉西坦',
     
-    # 补充剂类 - supplements
-    '酶抑制剂': 'supplements/酶抑制剂',
-    '补充剂': 'supplements/补充剂',
-    '苏糖酸镁': 'supplements/苏糖酸镁',
-    '茶碱': 'supplements/茶碱',
-    'TAN': 'supplements/茶氨酸',
-    '茶氨酸': 'supplements/茶氨酸',
-    '茶': 'supplements/茶',
+    # 补充剂类 - 补充剂
+    '酶抑制剂': '补充剂/酶抑制剂',
+    '补充剂': '补充剂/补充剂',
+    '苏糖酸镁': '补充剂/苏糖酸镁',
+    '茶碱': '补充剂/茶碱',
+    'TAN': '补充剂/茶氨酸',
+    '茶氨酸': '补充剂/茶氨酸',
+    '茶': '补充剂/茶',
     
     # 其他类 - others
     'compound': 'others/compound',

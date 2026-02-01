@@ -64,7 +64,7 @@
 - 槟榔碱.md
 - 吡拉西坦.md
 
-### 7. supplements（补充剂与代谢调节）
+### 7. 补充剂（补充剂与代谢调节）
 - 酶抑制剂.md
 - 补充剂.md
 - 苏糖酸镁/ + .md
@@ -94,13 +94,13 @@
 
 ### 第二轮修复（短代码）
 修复了 46 个文件中的短代码链接，包括：
-- SPM → supplements/补充剂
+- SPM → 补充剂/补充剂
 - PR → antipsychotics/普瑞巴林
-- TPL → supplements/茶碱
-- TAN → supplements/茶氨酸
-- EI → supplements/酶抑制剂
+- TPL → 补充剂/茶碱
+- TAN → 补充剂/茶氨酸
+- EI → 补充剂/酶抑制剂
 - THP → sedatives/苯海索
-- MGT → supplements/苏糖酸镁
+- MGT → 补充剂/苏糖酸镁
 - GBP → antipsychotics/加巴喷丁
 - RPD → antipsychotics/利培酮
 - MMT → dissociatives/美金刚
