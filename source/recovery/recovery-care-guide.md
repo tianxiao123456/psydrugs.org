@@ -121,7 +121,7 @@ excerpt: 药物使用后的恢复期护理指南，包括身体调养、心理�
 - 提供情感支持
 - 协助监督恢复进程
 - 学习相关知识
-- 参考：[Overdose引论](/Introduction_to_Overdose)
+- 参考：[Psydrugs引论](/drugs/index)
 
 ### 沟通技巧
 

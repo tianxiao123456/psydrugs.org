@@ -11,7 +11,7 @@ updated: 2024-05-13T13:24:14.619Z
 
 # 谵妄
 
-**谵妄(Delirium)** 是由抗胆碱能物质（如[苯海拉明](/drugs/sedatives/苯海拉明)、[茶苯海明](/drugs/antiemetics/茶苯海明)、[地芬尼多](/drugs/dissociatives/地芬尼多)）诱导的精神异常状态，表现为幻觉、混乱和精神病症状。
+**谵妄(Delirium)** 是由抗胆碱能物质（如[苯海拉明](/drugs/sedatives/苯海拉明)、[茶苯海明](/drugs/谵妄剂/茶苯海明)、[地芬尼多](/drugs/dissociatives/地芬尼多)）诱导的精神异常状态，表现为幻觉、混乱和精神病症状。
 
 ## 特征
 
@@ -24,7 +24,7 @@ updated: 2024-05-13T13:24:14.619Z
 ## 相关药物
 
 - [苯海拉明](/drugs/sedatives/苯海拉明)
-- [茶苯海明](/drugs/antiemetics/茶苯海明)
+- [茶苯海明](/drugs/谵妄剂/茶苯海明)
 - [地芬尼多](/drugs/dissociatives/地芬尼多)
 - [东莨菪碱](/drugs/ATP)（待补充）
 
