@@ -14,7 +14,6 @@ comments:
 base_dir: /drugs/
 tree:
   '绪论':
-    - introduction-to-overdose
     - /
     - index
     - 索引
