@@ -26,3 +26,9 @@ menu_id: recovery
 > - 🧠 心理健康：重视心理支持
 > - 👩‍⚕️ 定期检查：监测健康状况
 > - 🌱 生活方式：建立健康习惯
+
+## 相关知识
+
+ - [生理副作用](source\recovery\physiology-side-effect.md)
+ - [急性精神副作用](source\recovery\acute-psychology-side-effect.md)
+ - [慢性精神副作用](source\recovery\chronically-psychology-side-effect.md)
