@@ -8,6 +8,11 @@ menu_id: recovery
 
 本栏目提供恢复期的护理指南和健康管理建议：
 
+
+### 恢复介绍-什么是恢复？
+
+ - [恢复概述](source\recovery\summarize.md) - 了解恢复本身的目的
+
 ### 恢复指导
 
 - [恢复期护理与注意事项](/recovery/recovery-care-guide/) - 基础护理知识
