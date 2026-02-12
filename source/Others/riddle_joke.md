@@ -116,7 +116,7 @@ od人也追星！他们喜欢什么明星？
 狗屎米氮平，越吃越不行！
 狗屎氯氮平，越吃越不行！
 [舍曲林](/zh/Drugs/SRIs)是弱智
-[茶苯海明](/zh/Drugs/DMH)你！又！偷！我！**水**！！！唉不是[苯海拉明](/drugs/sedatives/苯海拉明)你们联合狩猎是吧
+[茶苯海明](/drugs/谵妄剂/茶苯海明)你！又！偷！我！**水**！！！唉不是[苯海拉明](/drugs/sedatives/苯海拉明)你们联合狩猎是吧
 虽然你当不了傀儡师，但你可以当思诺思的傀儡啊！王牌傀儡师，[唑吡坦](/zh/Drugs/ZPD)，请求出战！
 氯胺酮又名K粉，是个喜欢穿[帮宝适纸尿裤](https://re.jd.com/search?keyword=%e5%b8%ae%e5%ae%9d%e9%80%82%e4%b8%80%e7%ba%a7%e5%b8%ae%e6%8b%89%e6%8b%89%e8%a3%a4&keywordid=646018360393&re_dcp=202m0QjIIg==&traffic_source=1004&test=1&enc=utf8&bd_vid=10712771567757001578&cu=true&utm_source=baidu-search&utm_medium=cpc&utm_campaign=t_262767352_baidusearch&utm_term=646018360393_0_864c9e0198f24a70a38d67e07e24321b)的sb宝宝
 致敬传奇飞行员LSD，验证机翼贴邮票假说
