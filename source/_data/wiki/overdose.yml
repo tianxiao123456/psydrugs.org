@@ -30,4 +30,4 @@ tree:
     - reports/emergency-overdose-treatment
     - reports/survivor-stories
   '恢复管理':
-    - source/recovery/new_index.md
+    - source/recovery/恢复索引.md
