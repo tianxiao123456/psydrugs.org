@@ -18,9 +18,9 @@ excerpt: 药物使用后的恢复期护理指南，包括身体调养、心理�
 
 ## 恢复相关知识
 
- - [生理副作用](/recovery/physiology-side-effect)
- - [急性精神副作用](/recovery/acute-psychology-side-effect)
- - [慢性精神副作用](/recovery/chronically-psychology-side-effect)
+ - [生理副作用](/recovery/physiology_side_effect)
+ - [急性精神副作用](/recovery/acute_psychology_side_effect)
+ - [慢性精神副作用](/recovery/chronically_psychology_side_effect)
 
 ## 具体药物恢复相关
 
