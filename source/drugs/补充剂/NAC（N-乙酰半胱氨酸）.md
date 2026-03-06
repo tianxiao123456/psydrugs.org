@@ -2,7 +2,7 @@
 layout: page
 title: NAC（N-乙酰半胱氨酸）
 date: 2026-3-4 00:00:00
-updated: 2026-3-4 00:00:00
+updated: 2026-3-6 00:00:00
 categories:
   - "[药物]"
 tags:
