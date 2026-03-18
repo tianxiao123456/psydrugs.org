@@ -119,7 +119,7 @@ def main():
         ('https://psydrugs.org/drugs/antiemetics/%E8%8C%B6%E8%8B%AF%E6%B5%B7%E6%98%8E/', '/drugs/谵妄剂/茶苯海明'),
         
         # 抗抑郁药
-        ('https://psydrugs.org/drugs/antidepressants/%E8%A1%80%E6%B8%85%E7%B4%A0%E5%86%8D%E6%91%84%E5%8F%96%E6%8A%91%E5%88%B6%E5%89%82/', '/drugs/抗抑郁药/血清素再摄取抑制剂（SRIs）'),
+        ('https://psydrugs.org/drugs/antidepressants/%E8%A1%80%E6%B8%85%E7%B4%A0%E5%86%8D%E6%91%84%E5%8F%96%E6%8A%91%E5%88%B6%E5%89%82/', '/drugs/抗抑郁药/血清素再摄取抑制剂'),
         
         # 减害与补充
         ('https://psydrugs.org/drugs/antiemetics/%E5%90%A1%E6%8B%89%E8%A5%BF%E5%9D%A6/', '/drugs/补充剂/吡拉西坦'),

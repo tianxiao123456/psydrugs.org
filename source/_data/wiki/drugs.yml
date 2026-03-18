@@ -15,7 +15,7 @@ base_dir: /drugs/
 tree:
   "绪论":
     - index
-    - 索引
+    - 药物索引
     - 药物作用
     - 简易od药物介绍
     - 复方专题
