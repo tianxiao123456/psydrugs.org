@@ -2,9 +2,9 @@
 
 ## 当前配置
 
-- **本地 API 地址**：`http://127.0.0.1:443/api/generate`
+- **本地 API 地址**：`http://127.0.0.1:11434/api/generate`
 - **公网 API 地址**：`http://frp-bar.com:56559/api/generate`
-- **模型**：`deepseek`（可根据你的部署调整）
+- **模型**：`deepseek-r1:1.5b`（根据实际加载的模型调整）
 
 ## 需要做的准备工作
 
@@ -37,7 +37,7 @@ ollama pull llama2
 curl -X POST http://127.0.0.1:11434/api/generate \
   -H "Content-Type: application/json" \
   -d '{
-    "model": "deepseek",
+    "model": "deepseek-r1:1.5b",
     "prompt": "Hello",
     "stream": false
   }'
@@ -46,7 +46,7 @@ curl -X POST http://127.0.0.1:11434/api/generate \
 curl -X POST https://frp-bar.com:56559/api/generate \
   -H "Content-Type: application/json" \
   -d '{
-    "model": "deepseek",
+    "model": "deepseek-r1:1.5b",
     "prompt": "Hello",
     "stream": false
   }'
@@ -78,7 +78,7 @@ tools\start_ollama.ps1
 
 ```bash
 # 设置环境变量指定端口
-$env:OLLAMA_HOST = "127.0.0.1:443"
+$env:OLLAMA_HOST = "127.0.0.1:11434"
 $env:OLLAMA_ORIGINS = "*"
 
 # 启动服务
@@ -88,15 +88,15 @@ ollama serve
 或者在 PowerShell 中：
 
 ```powershell
-$env:OLLAMA_HOST = "127.0.0.1:443"
+$env:OLLAMA_HOST = "127.0.0.1:11434"
 $env:OLLAMA_ORIGINS = "*"
 ollama serve
 ```
 
-**重要：** 确保 Ollama 确实在443端口监听。你可以用以下命令检查：
+**重要：** 确保 Ollama 确实在11434端口监听。你可以用以下命令检查：
 
 ```bash
-netstat -ano | findstr :443
+netstat -ano | findstr :11434
 ```
 
 如果没有看到 Ollama 进程，说明启动失败。
@@ -106,7 +106,7 @@ netstat -ano | findstr :443
 编辑 `source/js/deepseek-search.js`，找到这一行：
 
 ```javascript
-model: 'deepseek',  // 请根据你的 Ollama 模型名称修改
+model: 'deepseek-r1:1.5b',  // 请根据你的 Ollama 模型名称修改
 ```
 
 改为你的模型名称，例如：
@@ -178,12 +178,12 @@ ollama list
 
 ### 连接超时
 
-- 检查 Ollama 是否在443端口运行：
+- 检查 Ollama 是否在11434端口运行：
   ```bash
-  netstat -ano | findstr :443
+  netstat -ano | findstr :11434
   ```
 - 检查 FRP 映射是否正常工作
-- 在浏览器中测试：`http://127.0.0.1:443/`
+- 在浏览器中测试：`http://127.0.0.1:11434/`
 - 检查防火墙设置
 
 ### 公网连接失败
@@ -209,12 +209,12 @@ ollama list
 
 2. **检查端口监听**：
    ```bash
-   netstat -ano | findstr :443
+   netstat -ano | findstr :11434
    ```
 
 3. **测试本地连接**：
    ```bash
-   curl http://127.0.0.1:443/api/tags
+   curl http://127.0.0.1:11434/api/tags
    ```
 
 4. **测试公网连接**：
@@ -228,7 +228,7 @@ ollama list
    taskkill /f /im ollama.exe 2>nul
    
    # 设置环境变量
-   $env:OLLAMA_HOST = "127.0.0.1:443"
+   $env:OLLAMA_HOST = "127.0.0.1:11434"
    $env:OLLAMA_ORIGINS = "*"
    
    # 启动服务

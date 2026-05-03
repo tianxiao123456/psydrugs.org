@@ -183,7 +183,7 @@ renderResults(formattedResults);
 
   async function queryOllama(query) {
     const body = {
-      model: 'deepseek',  // 请根据你的 Ollama 模型名称修改
+      model: 'deepseek-r1:1.5b',  // 请根据你的 Ollama 模型名称修改
       prompt: `以下是一个文档搜索查询。请基于这个查询找出相关的文档关键词和主题。\n\n查询：${query}\n\n相关关键词：`,
       stream: false,
     }
