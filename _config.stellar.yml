@@ -40,7 +40,7 @@ logo:
 
 # 侧边栏主功能导航菜单
 menubar:
-  columns: 4 # 一行多少个
+  columns: 5 # 一行多少个
   items: # 可按照自己需求增加，符合以下格式即可
     - id: drugs
       theme: "#1BCDFC"
