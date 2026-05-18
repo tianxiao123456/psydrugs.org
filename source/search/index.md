@@ -27,8 +27,7 @@ cover: https://gcore.jsdelivr.net/gh/cdn-x/xaoxuu@main/posts/20250706150531375.j
 </div>
 
 <script
-  src="/js/deepseek-search.js"
-  data-api-key="sk-2f15bf1d72444fefb8456932c7c70534"
-  data-api-host="https://api.deepseek.com/v1/chat/completions"
+  src="/js/rag-search.js"
+  data-rag-api="https://psydrugs-search.tianxiao0502000.workers.dev"
   data-model="deepseek-chat"
 ></script>
